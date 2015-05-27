@@ -1,5 +1,6 @@
 require 'fakeweb'
 require 'xml'
+require 'json'
 
 require 'shopify-mock/errors'
 require 'shopify-mock/urls'
